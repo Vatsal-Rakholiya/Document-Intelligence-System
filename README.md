@@ -223,10 +223,6 @@ flake8 multimodal_rag/ tests/
 - No privilege escalation
 - Security headers in production setup
 
-## License
-
-MIT License - see [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 Built with ChromaDB, Ollama, Hugging Face Transformers, OpenAI Whisper, and Tesseract OCR.
