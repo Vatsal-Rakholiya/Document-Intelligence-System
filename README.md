@@ -1,4 +1,4 @@
-# SmartRAG - Intelligent Multimodal RAG System
+# Document-Intelligence-System - Multimodal RAG System
 
 A production-ready RAG system enabling intelligent conversations with documents, images, and audio files. Built with local-first AI models for complete privacy and offline operation.
 
@@ -154,7 +154,7 @@ print(f"Processed {len(results)} files")
 ## Project Structure
 
 ```
-smartrag/
+Document Intelligence System/
 ├── chatbot_app.py              # Streamlit application
 ├── config.yaml                 # Configuration
 ├── requirements.txt            # Dependencies
