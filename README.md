@@ -55,8 +55,8 @@ docker-compose up -d
 ### Docker (Recommended)
 
 ```bash
-git clone https://github.com/itanishqshelar/SmartRAG.git
-cd SmartRAG/docker
+git clone https://github.com/Vatsal-Rakholiya/Document-Intelligence-System.git
+cd Document-Intelligence-System/docker
 
 # Development
 docker-compose up -d
