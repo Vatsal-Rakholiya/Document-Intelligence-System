@@ -1,4 +1,4 @@
-# Document-Intelligence-System - Multimodal RAG System
+# Document Intelligence System - Multimodal RAG System
 
 A production-ready RAG system enabling intelligent conversations with documents, images, and audio files. Built with local-first AI models for complete privacy and offline operation.
 
